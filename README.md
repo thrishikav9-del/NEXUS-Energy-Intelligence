@@ -185,7 +185,7 @@ http://localhost:8501
 
 ---
 
-## 🎯 Applications
+##  Applications
 
 * Smart Grid Systems
 * Energy Demand Forecasting
