@@ -1,27 +1,16 @@
-# NEXUS: Smart Grid Intelligence and Energy Operations Center
-
 # NEXUS
 
 **Smart Grid Intelligence and Energy Operations Platform**
 
-NEXUS is an intelligent energy analytics platform designed to forecast household electricity consumption and support data-driven energy management. It integrates statistical forecasting, deep learning, explainable AI, and simulation techniques to improve forecasting accuracy, interpretability, and operational planning.
-
----
-
-This project goes beyond traditional forecasting by combining Hybrid ARIMA-LSTM architectures, Explainable AI (SHAP), Vehicle-to-Grid (V2G) optimization, and a Digital Twin Simulation Engine to enable intelligent energy planning, anomaly detection, and operational decision-making.
+NEXUS is an intelligent energy analytics platform for forecasting household electricity consumption and supporting data-driven energy management. It combines statistical forecasting, deep learning, explainable AI, and simulation techniques to deliver accurate predictions, interpretable insights, and intelligent energy optimization.
 
 ---
 
 ## Overview
 
-Modern energy systems require accuracy, adaptability, and transparency. NEXUS addresses these challenges by providing a scalable and intelligent platform capable of:
+Accurate energy demand forecasting is essential for modern smart grids, enabling efficient resource allocation, demand response, and operational planning. However, conventional forecasting methods often struggle to capture complex consumption patterns and provide limited interpretability.
 
-* Predicting energy consumption with high precision
-* Simulating real-world grid scenarios
-* Detecting anomalies and inefficiencies
-* Delivering actionable optimization insights
-
----
+NEXUS addresses these challenges through an integrated platform that combines Hybrid ARIMA-LSTM forecasting, Explainable AI (SHAP), Digital Twin simulation, Vehicle-to-Grid (V2G) optimization, and anomaly detection to support intelligent decision-making in modern energy systems.
 
 ## Key Features
 
