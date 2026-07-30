@@ -1,6 +1,12 @@
 # NEXUS: Smart Grid Intelligence and Energy Operations Center
 
-NEXUS is an industry-grade Time Series Forecasting and Energy Intelligence Platform that integrates statistical modeling, deep learning, and real-time simulation to deliver advanced insights into household electricity consumption.
+# NEXUS
+
+**Smart Grid Intelligence and Energy Operations Platform**
+
+NEXUS is an intelligent energy analytics platform designed to forecast household electricity consumption and support data-driven energy management. It integrates statistical forecasting, deep learning, explainable AI, and simulation techniques to improve forecasting accuracy, interpretability, and operational planning.
+
+---
 
 This project goes beyond traditional forecasting by combining Hybrid ARIMA-LSTM architectures, Explainable AI (SHAP), Vehicle-to-Grid (V2G) optimization, and a Digital Twin Simulation Engine to enable intelligent energy planning, anomaly detection, and operational decision-making.
 
